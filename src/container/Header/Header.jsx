@@ -9,7 +9,7 @@ const Header = () => (
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new flavour" />
       <h1 className="app__header-h1">The Key To Fine Dining</h1>
-      <p className="p__opensans" style={{ margin: '2rem 0' }}>Hello world! Is here to cancel meals. Fresh troops the avenging can take the price of the gate elit. That beating you soften large and less trouble. In the fireball there is no element of time will not be avenging Moors, always. Product Sample no, the volutpat But to drink in that, at times as before. </p>
+      <p className="p__opensans" style={{ margin: '2rem 0' }}>Gallagher wine gardans! Is here to cancel meals. Fresh troops the avenging can take the price of the gate elit. That beating you soften large and less trouble. In the fireball there is no element of time will not be avenging Moors, always. Product Sample no, the volutpat But to drink in that, at times as before. </p>
       <button type="button" className="custom__button">Explore Menu</button>
     </div>
 

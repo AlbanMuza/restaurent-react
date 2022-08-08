@@ -24,7 +24,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Gaallanger Wine Gardens is one of the best wine Gardens in Gauteng. It was built in 1998 and until this day on the people of south africe consider it one of the best wine Gardens  .</p>
+        <p className="p__opensans">Gallagher Wine Gardens is one of the best wine Gardens in Gauteng. It was built in 1998 and until this day on the people of south africe consider it one of the best wine Gardens  .</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
